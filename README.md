@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=RENOMERX&fontSize=80&fontColor=00e5ff&animation=twinkling&desc=SYSTEM%20ARCHITECT%20|%20SECURED&descAlignY=70&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,00e5ff,100,005f73&height=200&section=header&text=RENOMERX&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=SYSTEM%20ARCHITECT%20|%20SECURED&descAlignY=70&descSize=20" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=>>+INITIALIZING+SYSTEM...;>>+CHECK-IN:+Aaryan(renomerx);>>+FOUNDER+@+NEET+PULSE;>>+ACCESS+GRANTED+..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=>>+INITIALIZING+SYSTEM...;>>+CHECK-IN:+Aaryan+Shukla;>>+FOUNDER+@+NEET+PULSE;>>+ACCESS+GRANTED+..." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ---
 
 ### 🖥 Runtime Environment
-> **Deploying high-performance CBT ecosystems and scalable e-commerce logic. Deep-diving into system kernels and hardening digital privacy. I build the infrastructure that stays invisible until it works.**
+> **Building invisible infrastructure that stays silent until it's perfect.**
 
 **Core Stack:** `Android AOSP` • `React` • `Next.js` • `Node.js` • `Python` • `GSAP` • `Figma` • `Linux` • `OSINT Tools` • `Firebase` • `PostgreSQL` • `Docker`
 
@@ -30,13 +30,12 @@
 
 ### ⚡ System Diagnostics
 <p align="center">
-  <!-- Fixed Stats Cards - Ensure username 'renomerx' is exactly as it appears in your URL bar -->
-  <img src="https://github-readme-stats.vercel.app/api?username=renomerx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5ff&text_color=ffffff&icon_color=00e5ff" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renomerx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5ff&text_color=ffffff" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=renomerx&show_icons=true&theme=tokyonight&title_color=00e5ff&text_color=ffffff&icon_color=00e5ff&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renomerx&layout=compact&theme=tokyonight&title_color=00e5ff&text_color=ffffff&hide_border=false" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renomerx&theme=tokyonight&hide_border=true&background=0D1117&stroke=00e5ff&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renomerx&theme=tokyonight&stroke=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&hide_border=false" height="180" />
 </p>
 
 ---
@@ -56,6 +55,13 @@
 
 ---
 
+### 🧠 Intelligence Registry
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote_color=00e5ff&author_color=ffffff" alt="Quotes" />
+</p>
+
+---
+
 ### 🐍 Neural Contribution Map
 <p align="center">
   <img src="https://github.com/renomerx/renomerx/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
@@ -68,5 +74,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00e5ff&height=100&section=footer" />
 </p>
