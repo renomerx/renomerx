@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=>>+INITIALIZING+SYSTEM...;>>+CHECK-IN:+Aaryan+Shukla;>>+FOUNDER+@+NEET+PULSE;>>+ACCESS+GRANTED+..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=>>+INITIALIZING+SYSTEM...;>>+CHECK-IN:+Aaryan+Dev.;>>+FOUNDER+@+NEET+PULSE;>>+ACCESS+GRANTED+..." alt="Typing SVG" />
 </p>
 
 <p align="center">
