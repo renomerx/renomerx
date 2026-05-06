@@ -1,23 +1,33 @@
 name: Generate Snake
 
 on:
-  schedule: # Runs every 12 hours
-    - cron: "0 */12 * * *"
-  workflow_dispatch: # Allows manual run
+  schedule:
+    - cron: "0 */12 * * *" 
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    # This section fixes the Exit Code 128
+    permissions:
+      contents: write
+    
     steps:
-      - uses: Actions/checkout@v3
-      - uses: Platane/snk@v3
+      - name: Checkout
+        uses: actions/checkout@v4 # Updated to v4 for Node 24 support
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: renomerx
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4 # Updated to v4 for Node 24 support
         with:
           target_branch: output
           build_dir: dist
